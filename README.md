@@ -1,2 +1,2 @@
 # hello-world
-krótki opis :D
+krótki opis :dmam na imie Patryk
